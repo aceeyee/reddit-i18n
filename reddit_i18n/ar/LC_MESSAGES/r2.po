@@ -105,7 +105,7 @@ msgstr "يوجد صور كثيرة , ) لديك فقط %d ("
 
 #: r2/controllers/api.py:1207
 msgid "Invalid image or general image error"
-msgstr ""
+msgstr "صورة غير صالحة"
 
 #: r2/controllers/api.py:1637
 msgid "claimed! now go to someone's userpage and give them a present!"
@@ -121,7 +121,7 @@ msgstr "ستصلك رساله علي بريدك الالكتروني خلال ل
 
 #: r2/controllers/api.py:1660
 msgid "try again tomorrow"
-msgstr ""
+msgstr "حاول مرة أخرى غدا"
 
 #: r2/controllers/api.py:1905 r2/controllers/api.py:2066
 msgid "invalid css class"
